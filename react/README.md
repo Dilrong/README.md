@@ -1,5 +1,5 @@
 # front-end REAMD.md
-본 문서는 github front-end 프로젝트 이해를 돕기위해 만든 README.md 양식입니다. 
+본 문서는 github react 프로젝트 이해를 돕기위해 만든 README.md 양식입니다. 
 
 이하 사항은 예제 사항입니다.
 
